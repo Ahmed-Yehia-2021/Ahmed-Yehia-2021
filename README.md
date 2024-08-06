@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align= "center"><b> Hi there 👋</b></h1>
 
-<!--
-**Ahmed-Yehia-2021/Ahmed-Yehia-2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **Data Analyst**, **Laravel Back-end Developer**, and **Programming Instructor**.
 
-Here are some ideas to get you started:
+<div align= "center">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align= "center">
+
+### Skills:
+| C++ | PHP | Python | HTML | Laravel |
+|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="60" height="60"/> |  
+
+
+| MySql | MS SQL | PostgreSQL |
+|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS SQL" alt="MS SQL" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/> |
+
+
+## Get in Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a7medya7hia)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a7med.ye7ia44@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohamedselim2&color=brightgreen)
+
+
+</div>
