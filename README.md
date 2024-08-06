@@ -19,7 +19,7 @@ A **Data Analyst**, **Laravel Back-end Developer**, and **Programming Instructor
 
 | Excel | Power BI |
 |----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftexcel/microsoftexcel-original.svg" title="Excel" alt="Excel" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" title="Power BI" alt="Power BI" width="60" height="60"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftexcel/microsoftexcel-original.svg" title="Excel" alt="Excel" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" title="Power BI" alt="Power BI" width="60" height="60"/> |
 
 
 ## Get in Touch
